@@ -1,0 +1,28 @@
+{
+  "name": "platzisocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunodynamics/platzisocial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunodynamics/platzisocial/issues"
+  },
+  "homepage": "https://github.com/brunodynamics/platzisocial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.20",
+    "swagger-ui-express": "^4.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

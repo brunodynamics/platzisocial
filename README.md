@@ -1,1 +1,1 @@
-# platzisocial
+# PlatziSocial
